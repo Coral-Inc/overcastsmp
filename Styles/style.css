@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+}
+
+.topnav {
+    background-color: rgb(54, 54, 54);
+    color: white;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbutton {
+    background-color: rgb(56, 56, 56);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    float: left;
+    margin: 5px;
+    padding: 10px;
+}
+
+.navbutton:hover{
+    background-color: rgb(117, 117, 117);
+    border: 2px solid rgb(65, 65, 65);
+}
